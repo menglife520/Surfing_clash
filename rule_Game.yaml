@@ -1,0 +1,11 @@
+# 游戏规则集
+payload:
+  # 游戏进程匹配
+  # name: Honor of Kings
+  - PROCESS-NAME,com.levelinfinite.sgameGlobal
+  # name: 卡皮巴拉 Go!
+  - PROCESS-NAME,com.habby.capybara
+
+  # - IP-CIDR,0.0.0.0/0
+  # - IP-CIDR6,::/0
+  # - DST-PORT,0-65535
