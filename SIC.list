@@ -1,0 +1,22 @@
+# 抖音更改IP
+DOMAIN-SUFFIX,amemv.com
+# 快手更改IP
+DOMAIN-SUFFIX,ksapisrv.com
+# 小红书更改IP
+DOMAIN-SUFFIX,edith.xiaohongshu.com
+# 微信视频号更改IP
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
+# 最右更改IP
+DOMAIN-SUFFIX,api.izuiyou.com
+# 微博更改IP
+DOMAIN-SUFFIX,api.weibo.cn
+# 和平营地更改IP
+DOMAIN-SUFFIX,formal.api.gp.qq.com
+# 哔哩哔哩解锁港澳台 更改IP
+DOMAIN-SUFFIX,api.bilibili.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+# 皮皮虾更改IP
+DOMAIN-SUFFIX,api.pipix.com
+#皮皮搞笑更改IP
+DOMAIN-SUFFIX,api.ippzone.com
