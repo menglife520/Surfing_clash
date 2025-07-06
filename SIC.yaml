@@ -2,7 +2,7 @@
 
 payload:
   # 抖音更改IP
-  - DOMAIN-SUFFIX,api.amemv.com
+  - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,zijieapi.com
   # 快手更改IP
   - DOMAIN-SUFFIX,ksapisrv.com
